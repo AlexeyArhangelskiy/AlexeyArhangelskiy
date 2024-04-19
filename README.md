@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU3OWVzcXc5a3pnbWJpbTFkdjdibzcxcTE1bXhuNnN5OWc2NGRxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/aleksei-arkhangelskii">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
